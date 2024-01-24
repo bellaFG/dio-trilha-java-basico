@@ -22,3 +22,8 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+tipos-variaveis/bin/Operadores.Java
+.gitignore
+Operadores/Operadores/README.md
+Operadores/Operadores/.vscode/settings.json
+.gitignore
